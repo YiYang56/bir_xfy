@@ -31,7 +31,7 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘--妃豫小姐": "./imgs/nothing.jpg",
+        "心爱的姑娘--妃豫小姐": "./imgs/1.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
         "第一个生日！": "./imgs/nothing.jpg",
